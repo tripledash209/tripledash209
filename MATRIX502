@@ -1,0 +1,85 @@
+{
+    "Version": "1.0",
+    "Message": "♻️♻️♻️New Updated Tweaks 31\/12\/2022\n\n\n\nMany More Country Tweaks Updated\n❤️ Join Us On Telegram For New Tweak Updates\nhttp:\/\/t.me\/twentyfourclanofficial ❤️\n",
+    "WSDomain": "fws.24clanvpn.xyz",
+    "Servers": [
+        {
+            "Name": "VIP A",
+            "Flag": "US",
+            "SSHHost": "tus1.24clanvpn.xyz",
+            "PublicKey": "7d631e6ca0f7c6df2b3f2b4dc413fbb8c9ecd05245ccb529787ea131478e6a65",
+            "NameServer": "dnsa.24clanvpn.xyz",
+            "OpenVPNHost": "udp.24clanvpn.xyz",
+            "UDPPort": "53",
+            "SSHPort": "225",
+            "SSLPort": "443",
+            "DropBear": "550",
+            "ProxyPort": "8080"
+        },
+        {
+            "Name": "VIP B",
+            "Flag": "DE",
+            "SSHHost": "tge1.24clanvpn.xyz",
+            "PublicKey": "7d631e6ca0f7c6df2b3f2b4dc413fbb8c9ecd05245ccb529787ea131478e6a65",
+            "NameServer": "dnsa.24clanvpn.xyz",
+            "OpenVPNHost": "udp.24clanvpn.xyz",
+            "UDPPort": "53",
+            "SSHPort": "225",
+            "SSLPort": "443",
+            "DropBear": "550",
+            "ProxyPort": "80"
+        },
+        {
+            "Name": "VIP C",
+            "Flag": "GB",
+            "SSHHost": "tuk1.24clanvpn.xyz",
+            "PublicKey": "7d631e6ca0f7c6df2b3f2b4dc413fbb8c9ecd05245ccb529787ea131478e6a65",
+            "NameServer": "dnsa.24clanvpn.xyz",
+            "OpenVPNHost": "udp.24clanvpn.xyz",
+            "UDPPort": "53",
+            "SSHPort": "225",
+            "SSLPort": "443",
+            "DropBear": "550",
+            "ProxyPort": "8080"
+        },
+        {
+            "Name": "CLOUDFRONT VIP",
+            "Flag": "US",
+            "SSHHost": "aws.24clanvpn.xyz",
+            "PublicKey": "7d631e6ca0f7c6df2b3f2b4dc413fbb8c9ecd05245ccb529787ea131478e6a65",
+            "NameServer": "dnsa.24clanvpn.xyz",
+            "OpenVPNHost": "udp.24clanvpn.xyz",
+            "UDPPort": "53",
+            "SSHPort": "22",
+            "SSLPort": "443",
+            "DropBear": "550",
+            "ProxyPort": "80"
+        },
+        {
+            "Name": "GAMING SERVER VIP",
+            "Flag": "GAMING",
+            "SSHHost": "tge1.24clanvpn.xyz",
+            "PublicKey": "7d631e6ca0f7c6df2b3f2b4dc413fbb8c9ecd05245ccb529787ea131478e6a65",
+            "NameServer": "dnsa.24clanvpn.xyz",
+            "OpenVPNHost": "udp.24clanvpn.xyz",
+            "UDPPort": "53",
+            "SSHPort": "225",
+            "SSLPort": "443",
+            "DropBear": "550",
+            "ProxyPort": "80"
+        },
+        {
+            "Name": "VOIP SERVER VIP",
+            "Flag": "VOIP",
+            "SSHHost": "tuk1.24clanvpn.xyz",
+            "PublicKey": "7d631e6ca0f7c6df2b3f2b4dc413fbb8c9ecd05245ccb529787ea131478e6a65",
+            "NameServer": "dnsa.24clanvpn.xyz",
+            "OpenVPNHost": "udp.24clanvpn.xyz",
+            "UDPPort": "53",
+            "SSHPort": "225",
+            "SSLPort": "443",
+            "DropBear": "550",
+            "ProxyPort": "80"
+        }
+    ]
+}
